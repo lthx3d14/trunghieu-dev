@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/fp-items/assets/laptop_analytics.svg" width="400" />
 
-# Hi, I'm Minh! 👋
+# Hi, I'm Hieu! 👋
 <p><i>A passionate Full-stack Developer from Vietnam</i></p>
 
 ---
